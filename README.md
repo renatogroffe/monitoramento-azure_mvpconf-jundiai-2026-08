@@ -1,2 +1,2 @@
 # monitoramento-azure_mvpconf-jundiai-2026-08
-Conteúdos da apresentação "Por que monitorar aplicações e outros recursos no Azure? De menores custos a projetos mais estáveis!".
+Conteúdos da apresentação "Por que monitorar aplicações e outros recursos no Azure? De menores custos a projetos mais estáveis!". Tecnologias e tópicos abordados: Monitoramento, Observabilidade, Microsoft Azure, Application Insights, OpenTelemetry, Azure Monitor, Log Analytics, Grafana, Prometheus, k6, Docker, Containers, Kubernetes...
